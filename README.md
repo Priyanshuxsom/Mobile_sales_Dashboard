@@ -1,6 +1,4 @@
-# Mobile_sales_Dashbord
-
-# 📊 Sales Analytics Dashboard
+# 📊 Mobile Sales Analytics Dashboard
 
 My first Data Analytics dashboard project.
 
@@ -25,15 +23,18 @@ payment methods, mobile model sales, and monthly trends.
 - Daily Sales Analysis
 - Interactive Brand and Mobile Model Filters
 
+
 ## 🛠️ Tools Used
 
-- Power BI
+- Microsoft Power BI
+- Microsoft Excel
 - Data Visualization
 - Data Analysis
 
-## 🖼️ Dashboard Preview
 
-![Dashboard Preview](images/dashboard-preview.png)
+## 📊 Dashboard Preview
+
+![Mobile Sales Dashboard](Screenshot%202026-10-08%20100350.png)
 
 ## 🚀 Learning
 
